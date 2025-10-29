@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.fundo{
+    background-color: aliceblue;
+    margin: 10%;
+    padding: 2% 0%;
+    border-radius: 50%;
+}
